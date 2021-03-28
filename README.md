@@ -20,7 +20,6 @@ My name is Dhia! I'm a passionate learner who's always willing to learn and work
 ![QT](https://img.shields.io/badge/-QT-05122A?style=flat&logo=qt)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -33,7 +32,8 @@ My name is Dhia! I'm a passionate learner who's always willing to learn and work
 ![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=Nodejs&logoColor=563D7C)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript&logoColor=563D7C)&nbsp;
 ![electron](https://img.shields.io/badge/-electron-05122A?style=flat&logo=electron&logoColor=563D7C)&nbsp;
- 
+ ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+
  ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
