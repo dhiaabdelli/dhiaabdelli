@@ -39,8 +39,6 @@ My name is Dhia! I'm a passionate learner who's always willing to learn and work
 <p align="center">
 <a href="https://www.dhiaabdelli.me"><img src="https://img.shields.io/badge/-dhiaabdelli.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:contact@dhiaabdelli.me"><img src="https://img.shields.io/badge/-contact@dhiaabdelli.me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/dhia.abdelli"><img src="https://img.shields.io/badge/-@dhia.abdelli_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/dhiaaab"><img src="https://img.shields.io/badge/-@dhiaaab-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <br/><br/>
